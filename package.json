@@ -60,13 +60,13 @@
     "typescript": "^5.9.3",
     "vite": "^6.3.5"
   },
-  "repository": "https://github.com/Parcoil/Sparkle",
+  "repository": "https://github.com/thedogecraft/sparkle-workflow-test",
   "build": {
     "publish": [
       {
         "provider": "github",
-        "owner": "Parcoil",
-        "repo": "Sparkle",
+        "owner": "thedogecraft",
+        "repo": "sparkle-workflow-test",
         "releaseType": "release"
       }
     ],
